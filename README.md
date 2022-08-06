@@ -1,0 +1,3 @@
+# Python_Assignment
+
+This is a simple python assignment given by lab class...
